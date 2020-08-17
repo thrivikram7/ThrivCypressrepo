@@ -1,0 +1,15 @@
+{
+  "name": "cypress_poc",
+  "version": "1.0.0",
+  "description": "cypress there we go",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/cypress open",
+    "testRun": "node_modules/.bin/cypress run"
+  },
+  "author": "Thrivikram",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.9.0"
+  }
+}
